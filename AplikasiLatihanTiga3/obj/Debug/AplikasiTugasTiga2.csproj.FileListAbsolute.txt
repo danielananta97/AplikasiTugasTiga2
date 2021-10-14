@@ -1,0 +1,9 @@
+D:\AplikasiTugasTiga2\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe.config
+D:\AplikasiTugasTiga2\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe
+D:\AplikasiTugasTiga2\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.pdb
+D:\AplikasiTugasTiga2\AplikasiLatihanTiga3\obj\Debug\AplikasiTugasTiga2.csprojResolveAssemblyReference.cache
+D:\AplikasiTugasTiga2\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.frmLatihanTiga3.resources
+D:\AplikasiTugasTiga2\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.Properties.Resources.resources
+D:\AplikasiTugasTiga2\AplikasiLatihanTiga3\obj\Debug\AplikasiTugasTiga2.csproj.GenerateResource.Cache
+D:\AplikasiTugasTiga2\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.exe
+D:\AplikasiTugasTiga2\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.pdb

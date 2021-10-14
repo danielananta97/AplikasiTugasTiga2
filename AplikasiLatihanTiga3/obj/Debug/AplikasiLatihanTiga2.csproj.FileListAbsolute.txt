@@ -1,0 +1,9 @@
+c:\users\daniel\documents\visual studio 2015\Projects\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe.config
+c:\users\daniel\documents\visual studio 2015\Projects\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csprojResolveAssemblyReference.cache
+c:\users\daniel\documents\visual studio 2015\Projects\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.frmLatihanTiga3.resources
+c:\users\daniel\documents\visual studio 2015\Projects\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.Properties.Resources.resources
+c:\users\daniel\documents\visual studio 2015\Projects\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.GenerateResource.Cache
+c:\users\daniel\documents\visual studio 2015\Projects\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe
+c:\users\daniel\documents\visual studio 2015\Projects\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.pdb
+c:\users\daniel\documents\visual studio 2015\Projects\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.exe
+c:\users\daniel\documents\visual studio 2015\Projects\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.pdb
